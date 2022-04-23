@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@700&family=Special+Elite&display=swap');
+/* font-family: 'Exo', sans-serif;
+font-family: 'Special Elite', cursive;
+Farbe: #000, #fff; */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1, h2{
+    font-family: 'Exo', sans-serif;
+}
+p{
+    font-family: 'Special Elite', cursive;
+}
