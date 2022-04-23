@@ -88,8 +88,7 @@ p{
     background-image: url("../../assets/img/cake_icon.png");
     background-size: initial;
     background-repeat: no-repeat;
-    height: 63vh;
-    /* padding-top: 90vh; */
+    margin-bottom: 72vh;
 }
 #menu_section{
       background-image: url(../../assets/img/bridge_1.jpg);
@@ -152,7 +151,91 @@ display: inline-block;
 .textbox{
 display: inline-block;
     text-align: center;
+    width: 39%;
+    margin-left: 27%;
+    margin-right: 27%;
     border: 0.1rem black solid;
     padding: 2% 2% 2% 2%;
     
+}
+#story div{
+    display: inline-block;
+    width: 36vw;
+    vertical-align: middle;
+    padding: 2% 3% 2% 18%;
+}
+#story img{
+    display: inline-block;
+    width: 36vw;
+    vertical-align: middle;
+    padding: 2% 9% 2% 12%;
+}
+#story{
+    width: 100vw;
+    display: inline-block;
+    position: relative;
+    background-color: white;
+    background: white;
+    background-size: initial;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    margin-bottom: 72vh;
+}
+#catering div{
+    display: inline-block;
+    width: 36vw;
+    vertical-align: middle;
+    padding: 2% 3% 2% 18%;
+}
+#catering img{
+    display: inline-block;
+    width: 36vw;
+    vertical-align: middle;
+    padding: 2% 9% 2% 12%;
+}
+#catering{
+    width: 100vw;
+    display: inline-block;
+    position: relative;
+    background-image: url(../../assets/img/pie_icon.png);
+    background: white;
+    background-size: initial;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    margin-bottom: 72vh;
+}
+#cakes div{
+    display: inline-block;
+    width: 36vw;
+    vertical-align: middle;
+    padding: 2% 3% 2% 18%;
+}
+#cakes img{
+    display: inline-block;
+    width: 36vw;
+    vertical-align: middle;
+    padding: 2% 9% 2% 12%;
+}
+#cakes{
+    width: 100vw;
+    display: inline-block;
+    position: relative;
+    background-image: url(../../assets/img/cake_icon.png);
+    background: white;
+    background-size: initial;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+footer img{
+    width: 2%;
+     
+}
+footer #today{
+    width: 6%;
+     
 }
